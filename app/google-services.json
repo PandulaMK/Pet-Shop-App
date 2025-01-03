@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "596940021569",
+    "firebase_url": "https://dog-nutrition-89377-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dog-nutrition-89377",
+    "storage_bucket": "dog-nutrition-89377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596940021569:android:111aada196c3a243614bc0",
+        "android_client_info": {
+          "package_name": "com.example.dognutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596940021569-qvue8tk91pi3tjg9l23t6e6r6ab6tcsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dognutrition",
+            "certificate_hash": "3464db99c2bbd303b28b403d17c51fd7f12d35bb"
+          }
+        },
+        {
+          "client_id": "596940021569-09b5kdobgoa6upfope9lp3f6gouujtof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFYLi_vA4e-plKcF43v0UDIRoaIEnegQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596940021569-09b5kdobgoa6upfope9lp3f6gouujtof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dog Nutrition</string>
+    <string name="product_image">Product Image</string>
+    <string name="cart_product_image_desc">Image of the product in the cart</string>
+    <string-array name="sort_options">
+        <item>Price: Upwards</item>
+        <item>Price: Downwards</item>
+    </string-array>
+    <string-array name="sort_options2">
+        <item>Grooming</item>
+        <item>Clothing</item>
+        <item>Toys</item>
+        <item>Accessories</item>
+        <item>Food</item>
+    </string-array>
+
+    <string-array name="payment_method_array">
+        <item>Credit Card</item>
+        <item>Cash On Delivery</item>
+    </string-array>
+</resources>
